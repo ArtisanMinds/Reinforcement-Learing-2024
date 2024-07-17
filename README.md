@@ -5,9 +5,9 @@ This repository documents the learning process and related code for reinforcemen
 ## Project Structure
 
 - **Deep Q-learning Network (DQN)**
-  - \1.DQN.py\: the basic Deep Q-learning algorithm. Update 7/18
-  - \2.DDQN.py\: the Double Deep Q-learning algorithm. Update 7/18
-  - \3.Dueling DQN.py\: the Dueling DQN algorithm. Update 7/18
+  - 1.DQN.py\: the basic Deep Q-learning algorithm. Update 7/18
+  - 2.DDQN.py\: the Double Deep Q-learning algorithm. Update 7/18
+  - 3.Dueling DQN.py\: the Dueling DQN algorithm. Update 7/18
 
 ## Requirements
 
