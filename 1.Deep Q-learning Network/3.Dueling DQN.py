@@ -144,7 +144,7 @@ for episode in tqdm(range(max_episodes), file=sys.stdout):
         torch.save(agent.model.state_dict(), 'duelingdqn.pth')
 
 plt.plot(episode_rewards)
-plt.title('DQN Training')
+plt.title('Dueling DQN Training')
 plt.xlabel('Episode')
 plt.ylabel('Reward')
 plt.show()
